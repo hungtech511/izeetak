@@ -1,0 +1,71 @@
+@font-face {
+  font-family: "icomoon";
+  src: url("../fonts/icomoon.eot?mixh0t");
+  src: url("../fonts/icomoon.eot?mixh0t#iefix") format("embedded-opentype"),
+    url("../fonts/icomoon.ttf?mixh0t") format("truetype"),
+    url("../fonts/icomoon.woff?mixh0t") format("woff"),
+    url("../fonts/icomoon.svg?mixh0t#icomoon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"],
+[class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: "icomoon" !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  font-size: 70px;
+  transition: all 0.3s;
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-bank:before {
+  content: "\e909";
+}
+.icon-healthcare:before {
+  content: "\e90a";
+}
+.icon-education:before {
+  content: "\e90b";
+}
+.icon-capital:before {
+  content: "\e90c";
+}
+.icon-customer:before {
+  content: "\e90d";
+}
+.icon-cloud:before {
+  content: "\e906";
+}
+.icon-learning:before {
+  content: "\e907";
+}
+.icon-verify:before {
+  content: "\e908";
+}
+.icon-artificial-intelligence:before {
+  content: "\e900";
+}
+.icon-coding:before {
+  content: "\e901";
+}
+.icon-cyber-security:before {
+  content: "\e902";
+}
+.icon-laptop:before {
+  content: "\e903";
+}
+.icon-monitor:before {
+  content: "\e904";
+}
+.icon-server:before {
+  content: "\e905";
+}
